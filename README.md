@@ -3,7 +3,7 @@
 #стэк
 
 llama
-ы
+
 ChatGPT
 
 ReActAgent
