@@ -2,11 +2,14 @@
 
 #стэк
 
-llama ReActAgent
+llama
+ы
+ChatGPT
+
+ReActAgent
 
 PandasQueryEngine
 
-ChatGPT
 
 # функционал
 1.  загрузка датасета по ссылке
